@@ -1,1 +1,2 @@
-web: python serve.py
+web: gunicorn juros:app
+
