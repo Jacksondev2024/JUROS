@@ -1,1 +1,1 @@
-web: python juros.py
+web: python serve.py
